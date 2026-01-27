@@ -3,7 +3,7 @@
 # 1Johnnydev
 
 ### 📊 My GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=1Johnnydev&color=blue)
+![Profile Views](https://ibb.co/j9ZZt1MQ)
 ![Followers](https://img.shields.io/github/followers/1Johnnydev?label=FOLLOWERS&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/1Johnnydev?label=STARS&style=for-the-badge)
 
