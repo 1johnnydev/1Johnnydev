@@ -3,7 +3,6 @@
 ### 🚀 GitHub Stats
 ![Followers](https://img.shields.io/github/followers/1Johnnydev?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white)  
 ![Stars](https://img.shields.io/github/stars/1Johnnydev?label=STARS&style=for-the-badge&logo=github&logoColor=white)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Johnnydev&layout=compact&theme=radical)
 
 ---
 
