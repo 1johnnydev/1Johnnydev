@@ -4,7 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/1Johnnydev?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white)  
 ![Stars](https://img.shields.io/github/stars/1Johnnydev?label=STARS&style=for-the-badge&logo=github&logoColor=white)  
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=1Johnnydev&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Johnnydev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Johnnydev&layout=compact&theme=radical)
 
 ---
 
@@ -32,7 +32,7 @@
 ### 🌟 About Me
 ```javascript
 const expertise = {
-  role: "CEO & Developer",
+  role: "Manager & Developer",
   development: ['Full-Stack', 'Cybersecurity', 'Game Dev'],
   security: ['Penetration Testing', 'Threat Analysis'],
   languages: ['Arabic', 'English', 'Turkish'],
