@@ -33,8 +33,6 @@
 ```javascript
 const expertise = {
   role: "Manager & Developer",
-  development: ['Full-Stack', 'Cybersecurity', 'Game Dev'],
-  security: ['Penetration Testing', 'Threat Analysis'],
-  languages: ['Arabic', 'English', 'Turkish'],
-  fun: "Always learning and building new cool stuff!"
+  development: ['programmer'],
+  languages: ['Arabic', 'English',],
 };
