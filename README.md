@@ -40,6 +40,4 @@ const expertise = {
 
 🐍 Contribution Snake
 
-"snake animation" (https://github.com/1Johnnydev/1Johnnydev/blob/output/github-contribution-grid-snake.svg)
-
----
+"snake" (https://raw.githubusercontent.com/1Johnnydev/1Johnnydev/output/github-contribution-grid-snake.svg)
